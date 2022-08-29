@@ -74,3 +74,6 @@ Install software (exe, msi) on windows machines
 
 - **acr-build-push**  
 build docker image and push to docker hub registry
+
+- **execute-command**  
+Execute command on a virtual server without username and password
