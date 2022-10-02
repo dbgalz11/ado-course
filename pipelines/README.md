@@ -77,3 +77,6 @@ build docker image and push to docker hub registry
 
 - **execute-command**  
 Execute command on a virtual server without username and password
+
+- **starting-template**  
+Starting template with stage, job, tasks
