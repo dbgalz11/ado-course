@@ -80,3 +80,6 @@ Execute command on a virtual server without username and password
 
 - **starting-template**  
 Starting template with stage, job, tasks
+
+- **push-package-feed**  
+Push a package to Artifacts feed

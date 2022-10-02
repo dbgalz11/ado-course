@@ -9,3 +9,6 @@ Projects that are included in the repository
 
 - **Node**  
 A NodeJS application 
+
+- **ClassLibrary**  
+.NET v.6 Class Library project to be used as a package

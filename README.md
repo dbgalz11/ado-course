@@ -5,6 +5,7 @@ https://www.udemy.com/course/mastering-azure-devops-cicd-pipelines-with-yaml/
 
 
 ## Changelog
+- add lecture | push package feed (2-october-2022)
 - add lecture | starting template (2-october-2022)
 - add lecture | execute commands on vms (1-september-2022)
 - add lecture | build and push container image (24-august-2022)
